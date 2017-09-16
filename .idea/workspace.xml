@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86506861-4e64-4b3e-aba1-01343daf9256" name="Default" comment="">
+    <list default="true" id="86506861-4e64-4b3e-aba1-01343daf9256" name="Default" comment="added jquery and with some scrolling behaviors">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/favicon/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/css/queries.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendors/js/jquery.waypoints.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Omnifood Contents/omnifood-content.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Omnifood Contents/omnifood-content.pages" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Omnifood Contents/omnifood-content.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Omnifood Contents/~$nifood-content.docx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/style.css" afterPath="$PROJECT_DIR$/resources/css/style.css" />
@@ -18,38 +27,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="401" column="65" lean-forward="false" selection-start-line="401" selection-start-column="65" selection-end-line="401" selection-end-column="65" />
+            <state relative-caret-position="1466">
+              <caret line="426" column="17" lean-forward="false" selection-start-line="426" selection-start-column="17" selection-end-line="426" selection-end-column="17" />
               <folding>
-                <element signature="e#1437#1444#0" expanded="true" />
-                <element signature="e#5873#5880#0" expanded="true" />
-                <element signature="e#14667#14673#1" expanded="true" />
-                <element signature="e#15075#15081#0" expanded="true" />
-                <element signature="e#18159#18165#1" expanded="true" />
-                <element signature="e#19510#19516#0" expanded="true" />
+                <element signature="e#2195#2202#0" expanded="true" />
+                <element signature="e#6651#6658#0" expanded="true" />
+                <element signature="e#15513#15519#1" expanded="true" />
+                <element signature="e#15921#15927#0" expanded="true" />
+                <element signature="e#19005#19011#1" expanded="true" />
+                <element signature="e#20356#20362#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="468" column="21" lean-forward="true" selection-start-line="468" selection-start-column="21" selection-end-line="468" selection-end-column="21" />
+            <state relative-caret-position="195">
+              <caret line="82" column="37" lean-forward="false" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Grid.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendors/css/Grid.css">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="21">
+              <caret line="460" column="18" lean-forward="false" selection-start-line="460" selection-start-column="18" selection-end-line="460" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queries.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/queries.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="94" column="22" lean-forward="false" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -57,14 +76,25 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo</find>
+      <find>js--</find>
+      <find>main</find>
+      <find>hungry</find>
+      <find>js--section-pl</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/resources/js/script.js" />
+        <option value="$PROJECT_DIR$/resources/css/queries.css" />
       </list>
     </option>
   </component>
@@ -74,8 +104,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -102,27 +133,35 @@
               <item name="OmniFood" type="b2602c69:ProjectViewProjectNode" />
               <item name="OmniFood" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OmniFood" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OmniFood" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.css" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Daniel\WebstormProjects\OmniFood\resources\css\img" />
-      <recent name="C:\Users\Daniel\WebstormProjects\OmniFood\resources\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Daniel\WebstormProjects\OmniFood" />
+      <recent name="C:\Users\Daniel\WebstormProjects\OmniFood\resources\favicon" />
       <recent name="C:\Users\Daniel\WebstormProjects\OmniFood\vendors\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\WebstormProjects\OmniFood\resources\favicons" />
+      <recent name="C:\Users\Daniel\WebstormProjects\OmniFood\vendors\js" />
+      <recent name="C:\Users\Daniel\WebstormProjects\OmniFood\resources\css\img" />
+      <recent name="C:\Users\Daniel\WebstormProjects\OmniFood\resources\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -153,7 +192,8 @@
       <workItem from="1505425768553" duration="7183000" />
       <workItem from="1505435689871" duration="1520000" />
       <workItem from="1505449497426" duration="3216000" />
-      <workItem from="1505492041748" duration="7683000" />
+      <workItem from="1505492041748" duration="19706000" />
+      <workItem from="1505528494626" duration="3549000" />
     </task>
     <task id="LOCAL-00001" summary="added features section">
       <created>1505434885764</created>
@@ -183,26 +223,33 @@
       <option name="project" value="LOCAL" />
       <updated>1505506085314</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added footer">
+      <created>1505509510920</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505509510920</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19602000" />
+    <option name="totallyTimeSpent" value="35174000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.302714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -223,7 +270,9 @@
     <MESSAGE value="added &quot;How it works&quot; section + style" />
     <MESSAGE value="added &quot;Cities&quot; section" />
     <MESSAGE value="added customer reviews, plans and a form" />
-    <option name="LAST_COMMIT_MESSAGE" value="added customer reviews, plans and a form" />
+    <MESSAGE value="added footer" />
+    <MESSAGE value="added jquery and with some scrolling behaviors" />
+    <option name="LAST_COMMIT_MESSAGE" value="added jquery and with some scrolling behaviors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -232,15 +281,62 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2195#2202#0" expanded="true" />
+            <element signature="e#6651#6658#0" expanded="true" />
+            <element signature="e#15513#15519#1" expanded="true" />
+            <element signature="e#15921#15927#0" expanded="true" />
+            <element signature="e#19005#19011#1" expanded="true" />
+            <element signature="e#20356#20362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9660">
+          <caret line="460" column="18" lean-forward="false" selection-start-line="460" selection-start-column="18" selection-end-line="460" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendors/css/Grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2541">
+          <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4662">
           <caret line="222" column="52" lean-forward="false" selection-start-line="222" selection-start-column="52" selection-end-line="222" selection-end-column="52" />
           <folding>
-            <element signature="e#1437#1444#0" expanded="true" />
-            <element signature="e#5873#5880#0" expanded="true" />
-            <element signature="e#14667#14673#1" expanded="true" />
-            <element signature="e#15075#15081#0" expanded="true" />
-            <element signature="e#18159#18165#1" expanded="true" />
-            <element signature="e#19510#19516#0" expanded="true" />
+            <element signature="e#2195#2202#0" expanded="true" />
+            <element signature="e#6651#6658#0" expanded="true" />
+            <element signature="e#15513#15519#1" expanded="true" />
+            <element signature="e#15921#15927#0" expanded="true" />
+            <element signature="e#19005#19011#1" expanded="true" />
+            <element signature="e#20356#20362#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -266,12 +362,12 @@
         <state relative-caret-position="2814">
           <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding>
-            <element signature="e#1437#1444#0" expanded="true" />
-            <element signature="e#5873#5880#0" expanded="true" />
-            <element signature="e#14667#14673#1" expanded="true" />
-            <element signature="e#15075#15081#0" expanded="true" />
-            <element signature="e#18159#18165#1" expanded="true" />
-            <element signature="e#19510#19516#0" expanded="true" />
+            <element signature="e#2195#2202#0" expanded="true" />
+            <element signature="e#6651#6658#0" expanded="true" />
+            <element signature="e#15513#15519#1" expanded="true" />
+            <element signature="e#15921#15927#0" expanded="true" />
+            <element signature="e#19005#19011#1" expanded="true" />
+            <element signature="e#20356#20362#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -297,12 +393,12 @@
         <state relative-caret-position="1449">
           <caret line="69" column="59" lean-forward="false" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
           <folding>
-            <element signature="e#1437#1444#0" expanded="true" />
-            <element signature="e#5873#5880#0" expanded="true" />
-            <element signature="e#14667#14673#1" expanded="true" />
-            <element signature="e#15075#15081#0" expanded="true" />
-            <element signature="e#18159#18165#1" expanded="true" />
-            <element signature="e#19510#19516#0" expanded="true" />
+            <element signature="e#2195#2202#0" expanded="true" />
+            <element signature="e#6651#6658#0" expanded="true" />
+            <element signature="e#15513#15519#1" expanded="true" />
+            <element signature="e#15921#15927#0" expanded="true" />
+            <element signature="e#19005#19011#1" expanded="true" />
+            <element signature="e#20356#20362#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -330,14 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendors/css/Grid.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/media.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -354,26 +442,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Omnifood-After-Section-7.zip/Omnifood - After Section 7/resources/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="401" column="65" lean-forward="false" selection-start-line="401" selection-start-column="65" selection-end-line="401" selection-end-column="65" />
-          <folding>
-            <element signature="e#1437#1444#0" expanded="true" />
-            <element signature="e#5873#5880#0" expanded="true" />
-            <element signature="e#14667#14673#1" expanded="true" />
-            <element signature="e#15075#15081#0" expanded="true" />
-            <element signature="e#18159#18165#1" expanded="true" />
-            <element signature="e#19510#19516#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="546">
+          <caret line="26" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Omnifood-After-Section-7.zip/Omnifood - After Section 7/resources/css/queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendors/css/Grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="468" column="21" lean-forward="true" selection-start-line="468" selection-start-column="21" selection-end-line="468" selection-end-column="21" />
+        <state relative-caret-position="21">
+          <caret line="460" column="18" lean-forward="false" selection-start-line="460" selection-start-column="18" selection-end-line="460" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browserconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="82" column="37" lean-forward="false" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="94" column="22" lean-forward="false" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1466">
+          <caret line="426" column="17" lean-forward="false" selection-start-line="426" selection-start-column="17" selection-end-line="426" selection-end-column="17" />
+          <folding>
+            <element signature="e#2195#2202#0" expanded="true" />
+            <element signature="e#6651#6658#0" expanded="true" />
+            <element signature="e#15513#15519#1" expanded="true" />
+            <element signature="e#15921#15927#0" expanded="true" />
+            <element signature="e#19005#19011#1" expanded="true" />
+            <element signature="e#20356#20362#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
